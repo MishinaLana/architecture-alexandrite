@@ -94,7 +94,7 @@ Prometheus/Grafana для метрик
 4. Для трейсинга через RabbitMQ  настроить пропагацию контекста в заголовках сообщений через интерцепторы/инструментацию OpenTelemetry
 
 ```markdown
-[Обновленная диаграмма]()
+[Обновленная диаграмма](https://github.com/MishinaLana/architecture-alexandrite/blob/alexandrite/Task3/jewerly_c4_model_task3.drawio)
 ```
 
 
